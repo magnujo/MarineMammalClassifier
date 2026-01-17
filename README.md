@@ -69,7 +69,3 @@ Model outputs, plots, and evaluation metrics should be stored in the `Results/` 
 ## Contributing
 
 Contributions are welcome for research and educational purposes. Please fork the repository and submit a pull request with a clear description of your changes.
-
-## License
-
-This project is intended for academic and research use. Add a `LICENSE` file if you wish to specify formal licensing terms.
