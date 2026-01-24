@@ -1,4 +1,4 @@
-name: piptensor39
+name: marine-mammal-classifier
 channels:
   - conda-forge
   - defaults
@@ -28,4 +28,3 @@ dependencies:
     - audioread==3.0.0
     - urllib3==1.26.12
     - jupyter==1.0.0
-prefix: C:\Users\Magnus\miniconda3\envs\piptensor39
